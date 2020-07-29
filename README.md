@@ -66,7 +66,7 @@ https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py
 https://coin-dataset.github.io
 
 ### AI 资料
-1.CVPR2019
+1.CVPR2019 
 CVPR满分论文，基于强化学习提出一种使用自然语言指挥智能体行动的新方法：https://mp.weixin.qq.com/s/YRS_dBH1E1XLsGqwbCf5Yg
 腾讯在CVPR2019入选了58篇文章，感兴趣可以了解一下腾讯优图部门的主要进展：https://www.leiphone.com/news/201903/oMzfA5HK6GWxJEGt.html
 
