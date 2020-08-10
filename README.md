@@ -1,6 +1,60 @@
 # 开放共享资源清单
 开源项目、文档、书籍等  
 
+## 资料
+### 计算机科学相关论文
+计算机科学常用论文
+https://github.com/papers-we-love/papers-we-love
+
+论文及相关代码。Papers with code. Sorted by stars. 2013～2018
+https://github.com/zziz/pwc
+
+
+### 营销广告相关论文
+The classical paper list with code about generative adversarial nets
+https://github.com/zhangqianhui/AdversarialNetsPapers
+
+Papers on Computational Advertising
+https://github.com/wzhe06/Ad-papers
+
+A collection of research and survey papers of real-time bidding (RTB) based display advertising techniques.
+https://github.com/wnzhang/rtb-papers
+
+
+### AI 资料  
+1.CVPR2019   
+CVPR满分论文，基于强化学习提出一种使用自然语言指挥智能体行动的新方法：https://mp.weixin.qq.com/s/YRS_dBH1E1XLsGqwbCf5Yg  
+腾讯在CVPR2019入选了58篇文章，感兴趣可以了解一下腾讯优图部门的主要进展：https://www.leiphone.com/news/201903/oMzfA5HK6GWxJEGt.html  
+  
+2.推荐系统  
+近期必读的12篇「推荐系统」相关论文：https://mp.weixin.qq.com/s/uO5I955SI-FmPqRp19OtZw  
+搞推荐系统不可错过的Facebook经典CTR预估模型解析：https://www.leiphone.com/news/201903/5Z2Hn1mKQ42zSaRr.html  
+  
+3.通用AI资料  
+图神经网络的基本介绍，涉及两种较高级的算法，DeepWalk和GraphSage：https://www.leiphone.com/news/201903/rgQOxlkQ9TI5FWeA.html  
+Coursera上五个最值得学习的机器学习课程，以及两本优质书籍推荐：https://www.leiphone.com/news/201903/PuE0V4CMGuZhoUnh.html  
+人工智能产业发展联盟公布首轮AI芯片基准评测工具，开源地址：https://github.com/AIIABenchmark/AIIABenchmark  
+用视频和讲义揭示梯度下降算法的本质：https://mp.weixin.qq.com/s/UxXyXMo9LN2QZ0o89ir-Ow  
+吴恩达新书《机器学习训练秘籍》六大要点总结：https://mp.weixin.qq.com/s/RZc7cSbzG3H33tWX9TfkSQ  
+谷歌和 OpenAI 进一步打开 AI 视觉的黑箱，提出 Activation Atlas方法映射计算机视觉系统内部的视觉数据：https://mp.weixin.qq.com/s/1sZ3XnDiZyOVeDCMH_Jq_A  
+比LightGBM 和 XGBoost 还快的梯度提升决策树：https://mp.weixin.qq.com/s/4qQxB4AthVAYKggEV3BHFw  
+OpenAI发布Nueral MMO，一个可以支持大规模多智能体训练的游戏模拟环境：https://mp.weixin.qq.com/s/TRfXVO9-DYHCqP49nPWMtw  
+
+4、论文
+机器学习论文集合
+https://github.com/terryum/awesome-deep-learning-papers
+
+机器学习论文导读（附评级）
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+深度学习论文翻译，包括分类论文，检测论文等
+https://github.com/SnailTyan/deep-learning-papers-translation
+
+
+### 区块链相关论文
+A curated list of academic blockchain-related papers
+https://github.com/decrypto-org/blockchain-papers
+
 
 ## ORC 人脸识别 工具库
 中文OCR开源项目 chineseocr_lite  
@@ -64,25 +118,10 @@ https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py
 业界最大规模教程类行为数据集 COIN（COmprehensive INstructional video analysis）发布，由美图与清华合作推出  
 https://coin-dataset.github.io  
   
-### AI 资料  
-1.CVPR2019   
-CVPR满分论文，基于强化学习提出一种使用自然语言指挥智能体行动的新方法：https://mp.weixin.qq.com/s/YRS_dBH1E1XLsGqwbCf5Yg  
-腾讯在CVPR2019入选了58篇文章，感兴趣可以了解一下腾讯优图部门的主要进展：https://www.leiphone.com/news/201903/oMzfA5HK6GWxJEGt.html  
-  
-2.推荐系统  
-近期必读的12篇「推荐系统」相关论文：https://mp.weixin.qq.com/s/uO5I955SI-FmPqRp19OtZw  
-搞推荐系统不可错过的Facebook经典CTR预估模型解析：https://www.leiphone.com/news/201903/5Z2Hn1mKQ42zSaRr.html  
-  
-3.通用AI资料  
-图神经网络的基本介绍，涉及两种较高级的算法，DeepWalk和GraphSage：https://www.leiphone.com/news/201903/rgQOxlkQ9TI5FWeA.html  
-Coursera上五个最值得学习的机器学习课程，以及两本优质书籍推荐：https://www.leiphone.com/news/201903/PuE0V4CMGuZhoUnh.html  
-人工智能产业发展联盟公布首轮AI芯片基准评测工具，开源地址：https://github.com/AIIABenchmark/AIIABenchmark  
-用视频和讲义揭示梯度下降算法的本质：https://mp.weixin.qq.com/s/UxXyXMo9LN2QZ0o89ir-Ow  
-吴恩达新书《机器学习训练秘籍》六大要点总结：https://mp.weixin.qq.com/s/RZc7cSbzG3H33tWX9TfkSQ  
-谷歌和 OpenAI 进一步打开 AI 视觉的黑箱，提出 Activation Atlas方法映射计算机视觉系统内部的视觉数据：https://mp.weixin.qq.com/s/1sZ3XnDiZyOVeDCMH_Jq_A  
-比LightGBM 和 XGBoost 还快的梯度提升决策树：https://mp.weixin.qq.com/s/4qQxB4AthVAYKggEV3BHFw  
-OpenAI发布Nueral MMO，一个可以支持大规模多智能体训练的游戏模拟环境：https://mp.weixin.qq.com/s/TRfXVO9-DYHCqP49nPWMtw  
-  
+
+
+
+
 ## 行业应用  
 物业管理系统   
 https://gitee.com/wuxw7/MicroCommunity  
